@@ -1,0 +1,11 @@
+name,type_1,attack,speed,is_legendary
+Pikachu,Electric,55,90,False
+Bulbasaur,Grass,49,45,False
+Charmander,Fire,52,65,False
+Squirtle,Water,48,43,False
+Mewtwo,Psychic,110,130,True
+Gengar,Ghost,65,110,False
+Dragonite,Dragon,134,80,False
+Snorlax,Normal,110,30,False
+Eevee,Normal,55,55,False
+Lucario,Fighting,110,90,False
